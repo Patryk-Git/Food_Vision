@@ -1,0 +1,2 @@
+model_checkpoint_path: "efficientB0_fine_tuned.ckpt"
+all_model_checkpoint_paths: "efficientB0_fine_tuned.ckpt"
